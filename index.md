@@ -1,3 +1,18 @@
+# Lucas' First CS193 Homework
+
+Favorite Things About CS193:
+
+- Useful Class
+- Learn Important Tools
+- Focused on Learning
+- Cool GitHub Website
+- Fantastic Quizzes
+- & Great Homework
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -23,7 +38,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://purdue-cs193.github.io/homework-0-pimasterpi/) and ![Image](src)
+[Great Website](https://purdue-cs193.github.io/homework-0-pimasterpi/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
