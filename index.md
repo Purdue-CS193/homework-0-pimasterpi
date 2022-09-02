@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[[Link](url)](https://purdue-cs193.github.io/homework-0-pimasterpi/) and ![Image](src)
+[Link](https://purdue-cs193.github.io/homework-0-pimasterpi/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
