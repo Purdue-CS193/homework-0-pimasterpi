@@ -9,7 +9,7 @@ Favorite Things About CS193:
 - Fantastic Quizzes
 - & Great Homework
 
-
+[Great Website](https://purdue-cs193.github.io/homework-0-pimasterpi/)
 
 
 
@@ -38,7 +38,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Great Website](https://purdue-cs193.github.io/homework-0-pimasterpi/) and ![Image](src)
+[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
